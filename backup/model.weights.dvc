@@ -1,0 +1,4 @@
+outs:
+- md5: becff1f884b43507dc5c1542f278c8a4
+  size: 34704996
+  path: model.weights
